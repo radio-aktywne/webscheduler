@@ -1,0 +1,7 @@
+**
+!webscheduler/
+webscheduler/.next/
+webscheduler/docs/
+webscheduler/node_modules/
+webscheduler/README.md
+webscheduler/tsconfig.tsbuildinfo
